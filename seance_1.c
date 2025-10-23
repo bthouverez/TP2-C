@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 // Cours séance 1
+// coucou
 
 int main()
 {
